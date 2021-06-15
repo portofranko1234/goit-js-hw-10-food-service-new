@@ -1,1 +1,1 @@
-# goit-js-hw-10-food-service-new
+# goit-js-hw-10-food-service
