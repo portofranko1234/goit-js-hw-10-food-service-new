@@ -1,4 +1,4 @@
-import foodCardsTemplate from './templates/food-cards';
+import foodCardsTemplate from './templates/food-cards.hbs';
 import menuItemsData from './menu.json';
 const menuGallery = document.querySelector('.menu');
 const markup = foodCardsTemplate(menuItemsData);
